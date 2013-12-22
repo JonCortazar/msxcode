@@ -1,4 +1,4 @@
 msxcode
 =======
 
-MSX assembly code
+Various snippets in assembly for MSX/MSX2 machines
